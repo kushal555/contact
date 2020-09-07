@@ -1,0 +1,19 @@
+{
+    "name": "kushal/contact",
+    "description": "This will send an email to admin and save the query to Database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kushal555",
+            "email": "kushalsuthar555@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Kushal\\Contact\\": "src/"
+        }
+    }
+}
